@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap");
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Merriweather", serif;
+}
+
+.kembali {
+    background-color: rgb(4, 118, 233);
+    color: #fff;
+    padding: 10px;
+    margin-left: 47.5%;
+    margin-top: -20%;
+    font-size: 16px;
+    text-decoration: none;
+    margin-bottom: -20px;
+}
+
+section {
+    width: 400px;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 470px;
+    margin-right: 410px;
+    background-color: white;
+    box-shadow: 9px 18px 71px 11px rgba(210, 209, 209, 0.76);
+    -webkit-box-shadow: 9px 18px 71px 11px rgba(210, 209, 209, 0.76);
+    -moz-box-shadow: 9px 18px 71px 11px rgba(210, 209, 209, 0.76);
+}
+
+.input {
+    padding: 6px;
+    margin-left: 5px;
+    width: 90%;
+    box-sizing: border-box;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid black;
+    outline-color: none;
+    color: black;
+}
+
+.submit {
+    background-color: green;
+    padding: 8px;
+    margin-left: 143px;
+    color: #fff;
+    font-size: 14px;
+    border: 0px;
+    cursor: pointer;
+}
+
+textarea {
+    padding: 6px;
+    width: 90%;
+    height: 10%;
+    box-sizing: border-box;
+    background: transparent;
+    color: black;
+    border: none;
+    border-bottom: 1px solid black;
+    min-height: 50px;
+    max-height: 70px;
+    min-width: 90%;
+    max-width: 90%;
+}
+
+label {
+    color: black;
+    font-weight: bold;
+    margin-left: 5px;
+}

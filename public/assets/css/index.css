@@ -1,0 +1,73 @@
+body {
+    background-color: black;
+}
+
+.judul {
+    color: aliceblue;
+    margin-left: 43.3%;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.tambah {
+    background-color: green;
+    color: #fff;
+    padding: 7px;
+    margin-left: 44.4%;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+table {
+    border: solid 3px #ffffff;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 90%;
+    margin: 15px auto 10px auto;
+    color: #fff;
+}
+
+table th {
+    border: solid 3px #ffffff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+table td {
+    border: solid 3px #ffffff;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.edit {
+    background-color: green;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.hapus {
+    background-color: red;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    font-size: 12px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.c_foto{
+    width: 125px;
+}
